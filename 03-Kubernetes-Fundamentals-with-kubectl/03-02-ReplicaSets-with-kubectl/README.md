@@ -20,7 +20,7 @@ metadata:
   labels:
     app: my-helloworld
 spec:
-  replicas: 3
+  replicas: 6
   selector:
     matchLabels:
       app: my-helloworld
